@@ -1,5 +1,9 @@
+<!DOCTYPE html>
 <html>
-<body>
-<h2>Hello World!</h2>
+<body style="background-color:powderblue;">
+
+<h1>wellcome github</h1>
+<p>showing github page</p>
+
 </body>
 </html>
